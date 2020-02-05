@@ -10,6 +10,6 @@ Our goal is to share our knowledge and awareness of development on the Stellar b
 - Formulate an ambassador program, so the workshops can be performed by others in different geographies. We envision to conduct the sessions offline and make the content available offline to engage a larger audience
 - Create a “Stellar Workshop Attendee Certification” for attendees who not only attend our offline workshop sessions but are able to complete the tasks of the workshop on their respective terminals.
 
-If you plan to do a meetup or workshop feel free to use our documents. For more details you can join our keybase.io team "blueorion" or via our website blueorion.cc 
+If you plan to do a meetup or workshop feel free to use our documents. For more details you can join our keybase.io team "blueorion" or via our website https://blueorion.cc 
 
 We are looking forward to expand the Stellar universe.
