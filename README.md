@@ -14,7 +14,7 @@ If you plan to do a meetup or workshop feel free to use our documents. For more 
 
 We are looking forward to expand the Stellar universe.
 
-##Documents and Content
+## Documents and Content
 
 - Meetup 1: Short introduction on SmartStellar (BlueOrion) and Soneso and results of the meeting
 
