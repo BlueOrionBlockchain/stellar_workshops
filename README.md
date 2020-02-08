@@ -13,3 +13,22 @@ Our goal is to share our knowledge and awareness of development on the Stellar b
 If you plan to do a meetup or workshop feel free to use our documents. For more details you can join our keybase.io team "blueorion" or via our website https://blueorion.cc 
 
 We are looking forward to expand the Stellar universe.
+
+##Documents and Content
+
+- Meetup 1: Short introduction on SmartStellar (BlueOrion) and Soneso and results of the meeting
+
+- Meetup 2: 
+a) General Tutorial on Stellar Basics (by Soneso)
+b) Overview on Stellar UseCases
+c) Fundamentals of the Stellar Consensus Protocol
+
+- Meetup 3: Workshop "How to create a Stellar token".
+- Meetup 4: Workshop at University Munich (TUM) "How to create a Stellar token".
+- Meetup 5: Was held due to the visit of Kori and Lisa from the foundation. There have been no slides just a visit at the beergarden.
+- Meetup 6: Update on the SCF activities, tokenization and regulations, Blue Orion Subscription Service
+- Meetup 7: Introduction of Stellar to the "Stellar WorkGroup" within https://www.blockchain-bayern.de/
+
+Next Meetup planned on 12.02.2020, Agenda: Create a Stellar token for https://www.blockchain-bayern.de/
+
+
